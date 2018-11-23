@@ -1,1 +1,1 @@
-# iSDC--2D-Histogram-Filter-in-C-
+# iSDC--2D-Histogram-Filter-in-C++
